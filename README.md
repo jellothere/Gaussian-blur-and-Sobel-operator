@@ -1,4 +1,4 @@
-# project_CA
+# Gaussian blur and Sobel operator
 
 The application applies two filters on a set of images in BMP format. The result will be a new image with the same format, after applying the mentioned filters.
 For every image the following filters will be applied:
